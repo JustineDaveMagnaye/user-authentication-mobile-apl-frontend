@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "RCAuthy",
+    "slug": "RCAuthy",
+    "version": "1.0.0",
+    "icon": "./assets/AppIcon.png",
+    "extra": {
+      "eas": {
+        "projectId": "8c137d5e-2969-4e3e-88f1-60b5c588f72a"
+      }
+    },
+    "owner": "justjustinedave",
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/8c137d5e-2969-4e3e-88f1-60b5c588f72a"
+    },
+    "android": {},
+    "ios": {}
+  }
+}
